@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>zhangsan</string>
+	<key>height</key>
+	<integer>187</integer>
+	<key>age</key>
+	<integer>19</integer>
+	<key>other</key>
+	<dict>
+		<key>school</key>
+		<string>nupt</string>
+		<key>company</key>
+		<string>beijing</string>
+		<key>relative</key>
+		<dict>
+			<key>father</key>
+			<string>father</string>
+			<key>mother</key>
+			<string>mother</string>
+		</dict>
+	</dict>
+	<key>Book</key>
+	<array>
+		<dict>
+			<key>bookName</key>
+			<string>计算机</string>
+			<key>bookPrice</key>
+			<string>200</string>
+		</dict>
+		<dict>
+			<key>bookName</key>
+			<string>语言</string>
+			<key>bookPrice</key>
+			<string>400</string>
+		</dict>
+	</array>
+</dict>
+</plist>
